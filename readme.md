@@ -2,6 +2,5 @@
 
 <h2>Projects to do</h2>
 <ul>
- <li>Basic Bank Software with localStorage</li>
- <li>Basic Sale Point with LocalStorage</li>
+ <li>Simple And Detailed Bank Software with localStorage</li>
 </ul>
